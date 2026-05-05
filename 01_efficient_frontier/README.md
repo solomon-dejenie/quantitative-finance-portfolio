@@ -2,6 +2,10 @@
 
 📄 [View Executive Report](./Efficient_Frontier_Portfolio_Optimization_Showcase.pdf)
 
+## 📓 View Notebook
+
+👉 [Open Notebook on GitHub](./01_Efficient_Frontier_Portfolio_Optimization.ipynb)
+
 ---
 
 ## 🎯 Objective
