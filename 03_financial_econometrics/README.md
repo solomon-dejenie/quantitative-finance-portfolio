@@ -5,7 +5,7 @@
 
 ## 📓 View Notebook
 
-👉 [Open Notebook on GitHub](./02_Financial_Asset_Return_Analysis.ipynb)
+👉 [Open Notebook on GitHub](./03_Financial_Econometrics_TimeSeries.ipynb)
 
 ---
 
