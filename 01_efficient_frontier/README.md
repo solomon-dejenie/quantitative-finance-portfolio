@@ -49,3 +49,9 @@ Develop an optimal portfolio allocation strategy that maximizes return for a giv
 
 ```bash
 pip install -r requirements.txt
+## Run:
+
+01_Efficient_Frontier_Portfolio_Optimization.ipynb
+## Insight
+
+Portfolio performance depends heavily on correlation structure, not just individual asset returns.
