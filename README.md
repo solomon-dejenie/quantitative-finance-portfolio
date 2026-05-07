@@ -1,4 +1,4 @@
-# 📊 Quantitative Finance Portfolio
+# Quantitative Finance Portfolio
 
 > A curated collection of three end-to-end quantitative finance projects covering portfolio optimization, return analysis, and financial econometrics — built with Python, grounded in theory, and designed for professional presentation.
 
@@ -40,7 +40,7 @@ quantitative-finance-portfolio/
 
 ---
 
-## 🚀 Projects at a Glance
+##  Projects at a Glance
 
 ### [📈 01 — Efficient Frontier & Portfolio Optimization](./01_efficient_frontier/README.md)
 
@@ -113,7 +113,7 @@ This repository is licensed under the terms of the [LICENSE](./LICENSE) file.
 
 ## 👤 Author
 
-**Your Name**
+**Solomon Dejenie**
 Quantitative Finance | Data Science | Financial Modelling
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/your-profile)
