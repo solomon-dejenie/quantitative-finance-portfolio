@@ -42,7 +42,7 @@ quantitative-finance-portfolio/
 
 ##  Projects at a Glance
 
-### [📈 01 — Efficient Frontier & Portfolio Optimization](./01_efficient_frontier/README.md)
+### [ 01 — Efficient Frontier & Portfolio Optimization](./01_efficient_frontier/README.md)
 
 Constructs the Markowitz efficient frontier for a multi-asset portfolio using Monte Carlo simulation and analytical optimization. Identifies the **Minimum Variance Portfolio** and the **Maximum Sharpe Ratio Portfolio**, with full covariance decomposition and cumulative return backtesting.
 
@@ -50,7 +50,7 @@ Constructs the Markowitz efficient frontier for a multi-asset portfolio using Mo
 
 ---
 
-### [📉 02 — Financial Asset Return Analysis](./02_asset_return_analysis/README.md)
+### [ 02 — Financial Asset Return Analysis](./02_asset_return_analysis/README.md)
 
 A deep-dive statistical study of asset return distributions across multiple securities. Examines normality assumptions, tail risk, and time-varying volatility through rolling window analysis and drawdown profiling.
 
@@ -58,7 +58,7 @@ A deep-dive statistical study of asset return distributions across multiple secu
 
 ---
 
-### [🔬 03 — Financial Econometrics & Time Series](./03_financial_econometrics/README.md)
+### [ 03 — Financial Econometrics & Time Series](./03_financial_econometrics/README.md)
 
 Applies formal econometric methods to financial time series — including stationarity testing, ARIMA forecasting, and GARCH volatility modelling. Model performance is evaluated with RMSE benchmarks and diagnostic residual analysis.
 
@@ -66,7 +66,7 @@ Applies formal econometric methods to financial time series — including statio
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 | Tool | Purpose |
 |------|---------|
@@ -79,7 +79,7 @@ Applies formal econometric methods to financial time series — including statio
 
 ---
 
-## ⚡ Getting Started
+##  Getting Started
 
 Each project is self-contained with its own `requirements.txt`. To run any project:
 
@@ -105,7 +105,7 @@ jupyter notebook
 
 ---
 
-## 📄 License
+##  License
 
 This repository is licensed under the terms of the [LICENSE](./LICENSE) file.
 
