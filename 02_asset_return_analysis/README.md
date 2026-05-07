@@ -316,7 +316,6 @@ $$JB = \frac{n}{6}\!\left[S^2 + \frac{(K-3)^2}{4}\right] \sim \chi^2(2) \;\; \te
 Rejection of H₀ confirms the Gaussian model is misspecified. Under normality the test statistic follows a chi-squared distribution with 2 degrees of freedom; observed values for financial return series are typically orders of magnitude above the 1% critical value.
 
 **Historical Value-at-Risk (5%):**
-
 $$VaR_{5\%} = F^{-1}(0.05)$$
 
 The 5th percentile of the empirical return distribution. Unlike parametric Gaussian VaR, historical VaR makes no distributional assumption and directly reflects fat-tail behavior present in observed data. The gap between historical VaR and Gaussian VaR is a direct measure of how much the normality assumption underestimates downside risk.
