@@ -35,7 +35,7 @@ Together, the three projects cover the quantitative methods most central to role
 
 ---
 
-## 📄 PDF Portfolio Showcases
+##  PDF Portfolio Showcases
 
 Each project ships with a standalone, professionally formatted PDF — designed specifically for sharing with **recruiters, hiring managers, academic reviewers, and professional contacts**. Each document is fully self-contained: all methodology, charts, results tables, and written interpretation are included, with no code execution or technical setup required.
 
@@ -184,11 +184,11 @@ quantitative-finance-portfolio/
 
 ---
 
-## 🚀 Projects
+##  Projects
 
 ### [01 — Efficient Frontier & Portfolio Optimization](./01_efficient_frontier/README.md)
 
-> 📄 [PDF Portfolio Showcase](./01_efficient_frontier/Efficient_Frontier_Portfolio_Optimization_Showcase.pdf) &nbsp;·&nbsp; 📓 [Jupyter Notebook](./01_efficient_frontier/01_Efficient_Frontier_Portfolio_Optimization.ipynb)
+>  [PDF Portfolio Showcase](./01_efficient_frontier/Efficient_Frontier_Portfolio_Optimization_Showcase.pdf) &nbsp;·&nbsp;  [Jupyter Notebook](./01_efficient_frontier/01_Efficient_Frontier_Portfolio_Optimization.ipynb)
 
 Implements the complete **Markowitz Mean-Variance framework** from first principles. Over 10,000 random portfolios are simulated via Monte Carlo (Dirichlet-sampled weights) to map the full feasible investment set on the risk-return plane. `scipy.optimize` with SLSQP then solves analytically for the **Minimum Variance Portfolio (MVP)** — the leftmost feasible point — and the **Maximum Sharpe Ratio Portfolio (MSP)** — the Capital Market Line tangency portfolio. The efficient frontier is traced by solving the parametric minimum-variance problem across a fine grid of target return levels. Both optimal portfolios are backtested out-of-sample against an equal-weight (1/N) benchmark.
 
@@ -205,7 +205,7 @@ Implements the complete **Markowitz Mean-Variance framework** from first princip
 
 ### [02 — Financial Asset Return Analysis](./02_asset_return_analysis/README.md)
 
-> 📄 [PDF Portfolio Showcase](./02_asset_return_analysis/Financial_Asset_Return_Analysis_Portfolio_Showcase.pdf) &nbsp;·&nbsp; 📓 [Jupyter Notebook](./02_asset_return_analysis/02_Financial_Asset_Return_Analysis.ipynb)
+>  [PDF Portfolio Showcase](./02_asset_return_analysis/Financial_Asset_Return_Analysis_Portfolio_Showcase.pdf) &nbsp;·&nbsp; 📓 [Jupyter Notebook](./02_asset_return_analysis/02_Financial_Asset_Return_Analysis.ipynb)
 
 A rigorous **statistical characterization of asset return distributions** across a multi-asset universe — formally dismantling the normality assumption embedded in classical portfolio and risk theory. Jarque-Bera testing and Q-Q plots provide quantitative and graphical evidence of fat tails and negative skewness. Rolling standard deviation windows (21-day and 63-day) capture time-varying volatility clustering regimes. Drawdown profiling quantifies worst-case historical loss magnitude and duration per asset. All risk metrics are consolidated into a portable risk summary table.
 
@@ -223,7 +223,7 @@ A rigorous **statistical characterization of asset return distributions** across
 
 ### [03 — Financial Econometrics & Time Series](./03_financial_econometrics/README.md)
 
-> 📄 [PDF Portfolio Showcase](./03_financial_econometrics/Financial_Econometrics_TimeSeries_Portfolio_Showcase.pdf) &nbsp;·&nbsp; 📓 [Jupyter Notebook](./03_financial_econometrics/03_Financial_Econometrics_TimeSeries.ipynb)
+>  [PDF Portfolio Showcase](./03_financial_econometrics/Financial_Econometrics_TimeSeries_Portfolio_Showcase.pdf) &nbsp;·&nbsp;  [Jupyter Notebook](./03_financial_econometrics/03_Financial_Econometrics_TimeSeries.ipynb)
 
 Applies the **complete econometric modelling pipeline** to financial return time series, following the methodology standard in academic empirical finance and quantitative research. ADF unit root testing establishes stationarity. ACF/PACF-guided ARIMA specification and AIC/BIC model comparison determine the conditional mean model. Engle's ARCH-LM test confirms conditional heteroskedasticity in residuals, motivating GARCH(1,1) for the variance equation. Out-of-sample ARIMA forecast accuracy is evaluated via RMSE, benchmarked against a naive random walk. All model outputs, parameter estimates, and forecasts are exported in both CSV and Excel formats.
 
@@ -259,7 +259,7 @@ Applies the **complete econometric modelling pipeline** to financial return time
 
 ---
 
-## ⚡ Quick Start
+##  Quick Start
 
 ```bash
 # 1. Clone the repository
@@ -289,7 +289,7 @@ Run all cells sequentially from top to bottom. All figures, tables, and output f
 
 ---
 
-## 📦 Project Delivery Format
+##  Project Delivery Format
 
 Every project folder ships with an identical, fully self-contained delivery structure:
 
@@ -305,7 +305,7 @@ Every project folder ships with an identical, fully self-contained delivery stru
 
 ---
 
-## 📄 License
+##  License
 
 Licensed under the terms of the [MIT License](./LICENSE).
 
@@ -315,7 +315,7 @@ Licensed under the terms of the [MIT License](./LICENSE).
 
 <br>
 
-**Your Name**
+**Solomon Dejenie**
 
 *Quantitative Finance · Statistical Modelling · Financial Econometrics*
 
