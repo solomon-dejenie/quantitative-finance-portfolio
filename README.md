@@ -205,7 +205,7 @@ Implements the complete **Markowitz Mean-Variance framework** from first princip
 
 ### [02 — Financial Asset Return Analysis](./02_asset_return_analysis/README.md)
 
->  [PDF Portfolio Showcase](./02_asset_return_analysis/Financial_Asset_Return_Analysis_Portfolio_Showcase.pdf) &nbsp;·&nbsp; 📓 [Jupyter Notebook](./02_asset_return_analysis/02_Financial_Asset_Return_Analysis.ipynb)
+>  [PDF Portfolio Showcase](./02_asset_return_analysis/Financial_Asset_Return_Analysis_Portfolio_Showcase.pdf) &nbsp;·&nbsp;  [Jupyter Notebook](./02_asset_return_analysis/02_Financial_Asset_Return_Analysis.ipynb)
 
 A rigorous **statistical characterization of asset return distributions** across a multi-asset universe — formally dismantling the normality assumption embedded in classical portfolio and risk theory. Jarque-Bera testing and Q-Q plots provide quantitative and graphical evidence of fat tails and negative skewness. Rolling standard deviation windows (21-day and 63-day) capture time-varying volatility clustering regimes. Drawdown profiling quantifies worst-case historical loss magnitude and duration per asset. All risk metrics are consolidated into a portable risk summary table.
 
