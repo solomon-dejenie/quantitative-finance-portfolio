@@ -1,91 +1,125 @@
-# 📊 Quantitative Finance Portfolio  
-**Solomon Dejenie | Quantitative Analyst | Financial Data Analyst**
+# 📊 Quantitative Finance Portfolio
+
+> A curated collection of three end-to-end quantitative finance projects covering portfolio optimization, return analysis, and financial econometrics — built with Python, grounded in theory, and designed for professional presentation.
 
 ---
 
-## 🎯 Value Proposition
+## 🗂️ Repository Structure
 
-I build data-driven financial models to optimize portfolios, quantify risk, and forecast market behavior using statistical and econometric methods.
-
----
-
-## 🎓 Certification
-
-**Financial Engineering (FFE)** — WorldQuant University  
-🔗 Verified Badge: https://www.credly.com/YOUR_BADGE_LINK
-
-Applied in:
-- Portfolio Optimization (Markowitz Framework)
-- Time Series Forecasting (ARIMA, GARCH)
-
----
-
-## 📄 Executive Project Reports
-
-- 📘 [Efficient Frontier Optimization](./01_efficient_frontier/Efficient_Frontier_Portfolio_Optimization_Showcase.pdf)  
-- 📘 [Asset Return Analysis](./02_asset_return_analysis/Financial_Asset_Return_Analysis_Portfolio_Showcase.pdf)  
-- 📘 [Financial Econometrics](./03_financial_econometrics/Financial_Econometrics_TimeSeries_Portfolio_Showcase.pdf)  
-
----
-
-## 📈 Key Outcomes
-
-- Constructed portfolios optimizing **risk-return tradeoff (Sharpe ratio)**
-- Identified **non-normal return behavior (fat tails, skewness)**
-- Modeled **volatility clustering using GARCH**
-- Built **ARIMA forecasts with evaluated prediction error (RMSE)**
-
----
-
-## 📊 Sample Outputs
-
-### Efficient Frontier
-![Efficient Frontier](./01_efficient_frontier/figures/efficient_frontier.png)
-
-### Rolling Volatility
-![Volatility](./02_asset_return_analysis/figures/rolling_volatility.png)
-
-### ARIMA Forecast
-![Forecast](./03_financial_econometrics/figures/arima_forecast_clean.png)
+```
+quantitative-finance-portfolio/
+├── README.md                          ← You are here (Hub)
+├── LICENSE
+│
+├── 01_efficient_frontier/             ← Project 1: Portfolio Optimization
+│   ├── 01_Efficient_Frontier_Portfolio_Optimization.ipynb
+│   ├── Efficient_Frontier_Portfolio_Optimization_Showcase.pdf
+│   ├── figures/
+│   ├── tables/
+│   ├── outputs/
+│   ├── requirements.txt
+│   └── README.md
+│
+├── 02_asset_return_analysis/          ← Project 2: Return Analysis
+│   ├── 02_Financial_Asset_Return_Analysis.ipynb
+│   ├── Financial_Asset_Return_Analysis_Portfolio_Showcase.pdf
+│   ├── figures/
+│   ├── tables/
+│   ├── requirements.txt
+│   └── README.md
+│
+└── 03_financial_econometrics/         ← Project 3: Econometrics & Time Series
+    ├── 03_Financial_Econometrics_TimeSeries.ipynb
+    ├── Financial_Econometrics_TimeSeries_Portfolio_Showcase.pdf
+    ├── figures/
+    ├── tables/
+    ├── outputs/
+    ├── requirements.txt
+    └── README.md
+```
 
 ---
 
-## 🧭 Project Navigation
+## 🚀 Projects at a Glance
 
-| Project | Notebook | Report |
-|--------|---------|--------|
-| Efficient Frontier | [Open](./01_efficient_frontier/01_Efficient_Frontier_Portfolio_Optimization.ipynb) | [PDF](./01_efficient_frontier/Efficient_Frontier_Portfolio_Optimization_Showcase.pdf) |
-| Asset Analysis | [Open](./02_asset_return_analysis/02_Financial_Asset_Return_Analysis.ipynb) | [PDF](./02_asset_return_analysis/Financial_Asset_Return_Analysis_Portfolio_Showcase.pdf) |
-| Econometrics | [Open](./03_financial_econometrics/03_Financial_Econometrics_TimeSeries.ipynb) | [PDF](./03_financial_econometrics/Financial_Econometrics_TimeSeries_Portfolio_Showcase.pdf) |
+### [📈 01 — Efficient Frontier & Portfolio Optimization](./01_efficient_frontier/README.md)
 
----
+Constructs the Markowitz efficient frontier for a multi-asset portfolio using Monte Carlo simulation and analytical optimization. Identifies the **Minimum Variance Portfolio** and the **Maximum Sharpe Ratio Portfolio**, with full covariance decomposition and cumulative return backtesting.
 
-## 💼 Business Impact
-
-- Supports optimal asset allocation decisions  
-- Enhances risk management through volatility modeling  
-- Provides forecasting tools for financial planning  
-- Demonstrates end-to-end quantitative workflow  
+**Key techniques:** Mean-variance optimization · Monte Carlo simulation · Sharpe ratio maximization · Correlation heatmaps
 
 ---
 
-## 🛠 Technical Stack
+### [📉 02 — Financial Asset Return Analysis](./02_asset_return_analysis/README.md)
 
-- Python (Pandas, NumPy)  
-- Statistical Modeling (Statsmodels, ARCH)  
-- Data Visualization (Matplotlib, Seaborn)  
-- Jupyter Notebook  
+A deep-dive statistical study of asset return distributions across multiple securities. Examines normality assumptions, tail risk, and time-varying volatility through rolling window analysis and drawdown profiling.
+
+**Key techniques:** Return distribution analysis · Q-Q plots · Rolling volatility · Maximum drawdown · Risk summary statistics
 
 ---
 
-## 👤 Profile
+### [🔬 03 — Financial Econometrics & Time Series](./03_financial_econometrics/README.md)
 
-I focus on translating financial data into actionable insights using quantitative methods.  
-Interested in roles involving:
+Applies formal econometric methods to financial time series — including stationarity testing, ARIMA forecasting, and GARCH volatility modelling. Model performance is evaluated with RMSE benchmarks and diagnostic residual analysis.
 
-- Quantitative Analysis  
-- Financial Data Analysis  
-- Risk Modeling  
+**Key techniques:** ADF stationarity tests · ARIMA/SARIMA modelling · GARCH(1,1) · Volatility forecasting · RMSE evaluation
 
-📬 GitHub: https://github.com/YOUR_USERNAME  
-📬 LinkedIn: ADD YOUR LINK
+---
+
+## 🛠️ Tech Stack
+
+| Tool | Purpose |
+|------|---------|
+| Python 3.10+ | Core language |
+| NumPy / Pandas | Data manipulation & matrix algebra |
+| SciPy / statsmodels | Optimization & econometric modelling |
+| arch | GARCH volatility models |
+| Matplotlib / Seaborn | Visualization |
+| Jupyter Notebook | Interactive analysis & reporting |
+
+---
+
+## ⚡ Getting Started
+
+Each project is self-contained with its own `requirements.txt`. To run any project:
+
+```bash
+# Clone the repository
+git clone https://github.com/your-username/quantitative-finance-portfolio.git
+cd quantitative-finance-portfolio
+
+# Navigate to a project
+cd 01_efficient_frontier
+
+# Create a virtual environment (recommended)
+python -m venv venv
+source venv/bin/activate        # macOS/Linux
+venv\Scripts\activate           # Windows
+
+# Install dependencies
+pip install -r requirements.txt
+
+# Launch Jupyter
+jupyter notebook
+```
+
+---
+
+## 📄 License
+
+This repository is licensed under the terms of the [LICENSE](./LICENSE) file.
+
+---
+
+## 👤 Author
+
+**Your Name**
+Quantitative Finance | Data Science | Financial Modelling
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/your-profile)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat&logo=github)](https://github.com/your-username)
+
+---
+
+*Each project folder contains a standalone README with methodology details, visual outputs, and interpretation of results.*
+
