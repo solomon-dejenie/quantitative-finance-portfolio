@@ -45,9 +45,9 @@ Each project ships with a standalone, professionally formatted PDF — designed 
 
 | # | Project | PDF Portfolio Showcase | Jupyter Notebook |
 |:-:|---------|----------------------|-----------------|
-| **01** | Efficient Frontier & Portfolio Optimization | [📄 Open PDF Showcase](./01_efficient_frontier/Efficient_Frontier_Portfolio_Optimization_Showcase.pdf) | [📓 Open Notebook](./01_efficient_frontier/01_Efficient_Frontier_Portfolio_Optimization.ipynb) |
-| **02** | Financial Asset Return Analysis | [📄 Open PDF Showcase](./02_asset_return_analysis/Financial_Asset_Return_Analysis_Portfolio_Showcase.pdf) | [📓 Open Notebook](./02_asset_return_analysis/02_Financial_Asset_Return_Analysis.ipynb) |
-| **03** | Financial Econometrics & Time Series | [📄 Open PDF Showcase](./03_financial_econometrics/Financial_Econometrics_TimeSeries_Portfolio_Showcase.pdf) | [📓 Open Notebook](./03_financial_econometrics/03_Financial_Econometrics_TimeSeries.ipynb) |
+| **01** | Efficient Frontier & Portfolio Optimization | [ Open PDF Showcase](./01_efficient_frontier/Efficient_Frontier_Portfolio_Optimization_Showcase.pdf) | [ Open Notebook](./01_efficient_frontier/01_Efficient_Frontier_Portfolio_Optimization.ipynb) |
+| **02** | Financial Asset Return Analysis | [ Open PDF Showcase](./02_asset_return_analysis/Financial_Asset_Return_Analysis_Portfolio_Showcase.pdf) | [ Open Notebook](./02_asset_return_analysis/02_Financial_Asset_Return_Analysis.ipynb) |
+| **03** | Financial Econometrics & Time Series | [ Open PDF Showcase](./03_financial_econometrics/Financial_Econometrics_TimeSeries_Portfolio_Showcase.pdf) | [ Open Notebook](./03_financial_econometrics/03_Financial_Econometrics_TimeSeries.ipynb) |
 
 </div>
 
