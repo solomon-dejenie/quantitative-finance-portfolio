@@ -219,12 +219,12 @@ correlation analysis revealing how **diversification breaks down precisely when 
 
 | | |
 |:---:|---|
-| 📍 **Location** | YOUR_CITY |
-| 🕐 **Timezone** | YOUR_TIMEZONE |
+| 📍 **Location** | Addis Ababa, Ethiopia |
+| 🕐 **Timezone** | UTC+3 (East Africa Time) |
 | 🌍 **Overlap** | Flexible — EU (CET) and US (EST) core hours available |
 | 🗓️ **Start date** | Immediate |
 | 🔄 **Work style** | Remote-first · Async-friendly · Video check-ins welcome |
-| 🗣️ **Languages** | Arabic (native) · English (professional, C1/C2) |
+| 🗣️ **Languages** | Amharic (native) · English (professional, C1/C2) |
 
 </div>
 
@@ -250,11 +250,11 @@ model that holds under stress — **I would like to hear about it.**
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-YOUR__EMAIL-D44638?style=for-the-badge&logo=gmail&logoColor=white&labelColor=2b2b2b)](mailto:YOUR_EMAIL)
+[![Email](https://img.shields.io/badge/Email-YOUR__EMAIL-D44638?style=for-the-badge&logo=gmail&logoColor=white&labelColor=2b2b2b)](mailto:soldm7@yahoo.com)
 &nbsp;&nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=2b2b2b)](https://linkedin.com/in/YOUR_LINKEDIN)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=2b2b2b)](https://linkedin.com/in/solomon-dejenie)
 &nbsp;&nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-Portfolio-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=2b2b2b)](https://github.com/YOUR_USERNAME)
+[![GitHub](https://img.shields.io/badge/GitHub-Portfolio-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=2b2b2b)](https://github.com/solomon-dejenie)
 
 </div>
 
@@ -280,7 +280,7 @@ model that holds under stress — **I would like to hear about it.**
 
 ### 📄 Supporting Documents
 
-[![Download CV](https://img.shields.io/badge/Download%20CV-European%20Standard-2ea44f?style=for-the-badge&logo=adobeacrobatreader&logoColor=white&labelColor=2b2b2b)](https://github.com/YOUR_USERNAME/YOUR_REPO/raw/main/CV_Data_Analyst.pdf)
+[![Download CV](https://img.shields.io/badge/Download%20CV-European%20Standard-2ea44f?style=for-the-badge&logo=adobeacrobatreader&logoColor=white&labelColor=2b2b2b)](https://github.com/solomon-dejenie/quantitative-finance-portfolio/raw/main/CV_Data_Analyst.pdf)
 
 > CV follows the European standard format with full descriptions of the three projects above.
 
@@ -298,7 +298,7 @@ model that holds under stress — **I would like to hear about it.**
 
 <br/>
 
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=YOUR_USERNAME.YOUR_USERNAME&labelColor=2b2b2b&color=2ea44f)
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=solomon-dejenie.solomon-dejenie&labelColor=2b2b2b&color=2ea44f)
 
 <br/>
 
