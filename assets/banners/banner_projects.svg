@@ -1,0 +1,41 @@
+<svg width="900" height="140" viewBox="0 0 900 140" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg5" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#0d1117"/>
+      <stop offset="100%" style="stop-color:#161b22"/>
+    </linearGradient>
+    <linearGradient id="accent5" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#a371f7"/>
+      <stop offset="100%" style="stop-color:#bc8cff"/>
+    </linearGradient>
+  </defs>
+  <rect width="900" height="140" fill="url(#bg5)" rx="10"/>
+  <rect x="0" y="0" width="4" height="140" fill="url(#accent5)" rx="2"/>
+
+  <!-- Chart bars icon -->
+  <rect x="44" y="72" width="10" height="24" rx="2" fill="#a371f7" opacity="0.7"/>
+  <rect x="58" y="55" width="10" height="41" rx="2" fill="#a371f7" opacity="0.9"/>
+  <rect x="72" y="44" width="10" height="52" rx="2" fill="#bc8cff"/>
+  <line x1="40" y1="96" x2="90" y2="96" stroke="#a371f7" stroke-width="1" opacity="0.5"/>
+
+  <!-- Content -->
+  <text x="112" y="42" font-family="'Segoe UI',system-ui,sans-serif" font-size="11" fill="#a371f7" font-weight="600" letter-spacing="2">FEATURED PROJECTS</text>
+  <text x="112" y="70" font-family="'Segoe UI',system-ui,sans-serif" font-size="20" font-weight="700" fill="#f0f6fc">3 Real-World Analytical Projects</text>
+  <text x="112" y="96" font-family="'Segoe UI',system-ui,sans-serif" font-size="13" fill="#8b949e">Portfolio Optimisation · Asset Return Analysis · Financial Econometrics &amp; Time Series</text>
+
+  <!-- Project pills -->
+  <rect x="112" y="110" width="56" height="20" rx="4" fill="#2ea44f" opacity="0.15"/>
+  <text x="140" y="124" font-family="'Segoe UI',system-ui,sans-serif" font-size="10" fill="#3fb950" text-anchor="middle" font-weight="600">Python</text>
+
+  <rect x="178" y="110" width="56" height="20" rx="4" fill="#1f6feb" opacity="0.15"/>
+  <text x="206" y="124" font-family="'Segoe UI',system-ui,sans-serif" font-size="10" fill="#79c0ff" text-anchor="middle" font-weight="600">SciPy</text>
+
+  <rect x="244" y="110" width="100" height="20" rx="4" fill="#a371f7" opacity="0.15"/>
+  <text x="294" y="124" font-family="'Segoe UI',system-ui,sans-serif" font-size="10" fill="#c9a7ff" text-anchor="middle" font-weight="600">Statsmodels</text>
+
+  <rect x="354" y="110" width="120" height="20" rx="4" fill="#e3b341" opacity="0.15"/>
+  <text x="414" y="124" font-family="'Segoe UI',system-ui,sans-serif" font-size="10" fill="#e3b341" text-anchor="middle" font-weight="600">Monte Carlo</text>
+
+  <!-- Right sparkline deco -->
+  <polyline points="700,100 720,75 740,88 760,55 780,70 800,48 820,60" fill="none" stroke="#a371f7" stroke-width="1.5" opacity="0.2" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
